@@ -26,6 +26,9 @@ _**NOTE: Minimum JavaSE version is 1.8**_
 <br>
 
 ### Recent News Items...
+* [HTM.java Status Report](https://discourse.numenta.org/t/htm-java-status-report/645) (05/29/2016)
+* [HTM.java Examples Repo Updated!](https://github.com/numenta/htm.java-examples) Includes use of the [New Cortical.io API!](https://github.com/cortical-io/retina-api-java-sdk) (05/18/2016)
+* [New HTM.java Forum Site](http://discourse.numenta.org/c/htm-java) found on the new [HTM Forum](http://discourse.numenta.org) (05/10/2016)
 * [HTM.java Recieves new Persistence API](https://github.com/numenta/htm.java/wiki/Saving-Your-Network:-The-Persistence-API) (04/14/2016)
 * HTM.java Recieves [Docker Reference-Build Implementation](https://github.com/numenta/htm.java/wiki/Build-Instructions#reference-build-environment) (03/26/2016)  
 * **HTM.java Becomes Build-able With OpenJDK** (03/26/2016)  
@@ -38,7 +41,7 @@ _**NOTE: Minimum JavaSE version is 1.8**_
 * See a glimpse of htm.java's history and read about significant events in its development.  
 
 
-### View the [Change Log](https://github.com/numenta/htm.java/blob/master/CHANGELOG.md) (Updated! 2016-03-27)
+### View the [Change Log](https://github.com/numenta/htm.java/blob/master/CHANGELOG.md) (Updated! 2016-05-02)
 * Change log itemizes the release history.
 * Contains an **"Unreleased" section** which lists changes coming in the next release as they're being worked on - (should help users keep in touch with the current evolution of htm.java)
 
@@ -50,7 +53,7 @@ For a more detailed discussion of <b>htm.java</b> see: <BR>
 
 See the [Test Coverage Reports](https://coveralls.io/jobs/4164658) - For more information on where you can contribute! Extend the tests and get your name in bright lights!
 
-For answers to more detailed questions, email the [nupic-discuss](http://lists.numenta.org/mailman/listinfo/nupic_lists.numenta.org) mailing list, or chat with us on Gitter.
+For answers to more detailed questions, post to the [HTM Forum](http://discourse.numenta.org) (can be used via email too), or chat with us on Gitter.
 
 [![Gitter](https://img.shields.io/badge/gitter-join_chat-blue.svg?style=flat)](https://gitter.im/numenta/public?utm_source=badge)
 
@@ -72,6 +75,7 @@ The primary goal of this library development is to provide a Java version of NuP
 By working closely with Numenta and receiving their enthusiastic support and guidance, it is intended that this library be maintained as a viable Java language alternative to Numenta's C++ and Python offerings. However it must be understood that "official" support is (for the time being) currently limited to community resources such as the maintainers of this library and Numenta Forums / Message Lists and IRC:
 
  * [NuPIC Community](http://numenta.org/index.html#community)
+ * [New HTM Forum](http://discourse.numenta.org)
 
 ***
 ## How Do I Get The Code? 
